@@ -1,0 +1,73 @@
+*************Ce fichier a pour but de noter l'ensemble des objectifs à réaliser pour et pendant la prochaine séance********
+*************Les personnes décidant de s'occuper de l'une des tâches l'indique en mettant 'en cours' ou fait'********
+
+Objectifs pour la séance du 25/02/2014
+
+   √ - Numérisation du diagramme de classe
+   √ - Planification des tâches
+   √ - Préparation du diagramme de Gantt
+
+=======
+
+Objectifs pour la séance du 
+    -Préciser dans le cahier des charges :
+       √ -lancement d'une partie (étapes pas à pas)
+       √ -sauvegarde d'une partie (sauvegarde multiples, proposition de la dernière partie jouée)
+       √ -précision sur les modes de jeu
+       √ -précision à faire sur le profil
+       √ -Conservation des préférences (taille de la grille d'une partie à l'autre)
+
+    -Penser à ajouter dans le dossier de conception les différentes manières de noircir etc les cases
+
+========================
+
+Objectifs pour la seance du 21 Mars
+    -Mise au point avancée codage
+    -continuer le code
+
+
+=========================
+=========================
+
+A première vue il manque une méthode de sauvegarde dans Grille.rb et il faudrait implémenter la sauvegarde et le
+chargement dans Editeur.rb
+
+
+=========================
+=========================
+
+Séance du 12/05
+
+Demande : 
+
+- Sélection cases en glissant
+- Bouton effacer sauvegarde/grilles
+- Sauvegarder grille finie
+- Gravité fenêtre (galère)
+- Sélection image dans éditeur
+- Mettre nouvelles cases dans éditeur
+- ÉPURER CODE !!!
+ 
+———— Colas ————
+
+- Nettoyer grille en cours
+@jeu.nettoyerGrille() ==> Remet toutes les cases à vide
+
+- Bouton tout réinitialiser
+@jeu.viderTout() ==> Tout supprimer
+
+———————————
+
+Version gtk pour placement conditions:
+
+[2, 24, 23] ==> Mac OS X (Rémi, Anice)
+[2, 24, 20] ==> Mac OS X (Rémi, Anice)
+[2, 24, 22] ==> Linux (Antoine)
+
+
+
+
+
+
+
+

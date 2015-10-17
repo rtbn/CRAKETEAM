@@ -1,0 +1,20 @@
+\contentsline {section}{\numberline {1}Pr\IeC {\'e}sentation g\IeC {\'e}n\IeC {\'e}ral}{1}
+\contentsline {subsection}{\numberline {1.1}Objectif du document}{1}
+\contentsline {subsection}{\numberline {1.2}Objectif du projet}{1}
+\contentsline {subsection}{\numberline {1.3}Documents de r\IeC {\'e}f\IeC {\'e}rences}{1}
+\contentsline {section}{\numberline {2}Mod\IeC {\'e}lisation du projet}{2}
+\contentsline {subsection}{\numberline {2.1}Les cas d'utilisations}{2}
+\contentsline {subsection}{\numberline {2.2}Le sc\IeC {\'e}nario du syst\IeC {\`e}me}{3}
+\contentsline {subsection}{\numberline {2.3}Sch\IeC {\'e}ma de navigation}{4}
+\contentsline {subsection}{\numberline {2.4}Diagramme de classe}{5}
+\contentsline {section}{\numberline {3}Mod\IeC {\'e}lisation de la Sauvegarde des donn\IeC {\'e}es}{9}
+\contentsline {subsection}{\numberline {3.1}Dictionnaire de donn\IeC {\'e}es}{9}
+\contentsline {subsection}{\numberline {3.2}Description des donn\IeC {\'e}es sauvegard\IeC {\'e}es et de leur stockage}{9}
+\contentsline {subsection}{\numberline {3.3}M\IeC {\'e}chanismes de Sauvegarde des Donn\IeC {\'e}es}{10}
+\contentsline {section}{\numberline {4}Interface Homme-Machine}{11}
+\contentsline {subsection}{\numberline {4.1}Introduction}{11}
+\contentsline {subsection}{\numberline {4.2}Repr\IeC {\'e}sentations}{11}
+\contentsline {section}{\numberline {5}Outils, normes et standards de programmation}{21}
+\contentsline {subsection}{\numberline {5.1}Languages utilis\IeC {\'e}s}{21}
+\contentsline {subsection}{\numberline {5.2}Envrionnement et outils de d\IeC {\'e}veloppement}{21}
+\contentsline {subsection}{\numberline {5.3}Standards de programmation}{22}

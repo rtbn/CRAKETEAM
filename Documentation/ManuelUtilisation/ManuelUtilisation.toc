@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Description du manuel}{1}
+\contentsline {subsection}{\numberline {1.1}Contexte}{1}
+\contentsline {subsection}{\numberline {1.2}Objectif}{1}
+\contentsline {section}{\numberline {2}D\IeC {\'e}marrage}{1}
+\contentsline {subsection}{\numberline {2.1}Pr\IeC {\'e}requis}{1}
+\contentsline {subsection}{\numberline {2.2}Lancer l'application}{1}
+\contentsline {section}{\numberline {3}Manuel Utilisateur}{2}
+\contentsline {subsection}{\numberline {3.1}Accueil Visiteur}{2}
+\contentsline {subsection}{\numberline {3.2}Le Profil}{3}
+\contentsline {subsection}{\numberline {3.3}Options}{3}
+\contentsline {subsection}{\numberline {3.4}Credits}{4}
+\contentsline {subsection}{\numberline {3.5}Param\IeC {\`e}tre d'une partie}{4}
+\contentsline {subsection}{\numberline {3.6}Accueil Profil}{5}
+\contentsline {subsection}{\numberline {3.7}Editeur}{6}
